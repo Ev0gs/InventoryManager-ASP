@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pierr\\Projects\\MVC_Project\\",
+  "WorkspaceRootPath": "C:\\Users\\pierr\\Desktop\\asp-dotnet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72071C30-91A4-44E1-8F96-18BCF7C05516}|MVC_Project\\MVC_Project.csproj|c:\\users\\pierr\\projects\\mvc_project\\mvc_project\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72071C30-91A4-44E1-8F96-18BCF7C05516}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6285ABBF-AB71-B082-AB44-1D420629D433}|MVC_Project\\MVC_Project.csproj|c:\\users\\pierr\\desktop\\asp-dotnet\\mvc_project\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6285ABBF-AB71-B082-AB44-1D420629D433}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72071C30-91A4-44E1-8F96-18BCF7C05516}|MVC_Project\\MVC_Project.csproj|c:\\users\\pierr\\projects\\mvc_project\\mvc_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72071C30-91A4-44E1-8F96-18BCF7C05516}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6285ABBF-AB71-B082-AB44-1D420629D433}|MVC_Project\\MVC_Project.csproj|c:\\users\\pierr\\desktop\\asp-dotnet\\mvc_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6285ABBF-AB71-B082-AB44-1D420629D433}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72071C30-91A4-44E1-8F96-18BCF7C05516}|MVC_Project\\MVC_Project.csproj|c:\\users\\pierr\\projects\\mvc_project\\mvc_project\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72071C30-91A4-44E1-8F96-18BCF7C05516}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6285ABBF-AB71-B082-AB44-1D420629D433}|MVC_Project\\MVC_Project.csproj|c:\\users\\pierr\\desktop\\asp-dotnet\\mvc_project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6285ABBF-AB71-B082-AB44-1D420629D433}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72071C30-91A4-44E1-8F96-18BCF7C05516}|MVC_Project\\MVC_Project.csproj|c:\\users\\pierr\\projects\\mvc_project\\mvc_project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72071C30-91A4-44E1-8F96-18BCF7C05516}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6285ABBF-AB71-B082-AB44-1D420629D433}|MVC_Project\\MVC_Project.csproj|c:\\users\\pierr\\desktop\\asp-dotnet\\mvc_project\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6285ABBF-AB71-B082-AB44-1D420629D433}|MVC_Project\\MVC_Project.csproj|solutionrelative:mvc_project\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,22 +36,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pierr\\Projects\\MVC_Project\\MVC_Project\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\Desktop\\asp-dotnet\\MVC_Project\\Program.cs",
               "RelativeDocumentMoniker": "MVC_Project\\Program.cs",
-              "ToolTip": "C:\\Users\\pierr\\Projects\\MVC_Project\\MVC_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\pierr\\Desktop\\asp-dotnet\\MVC_Project\\Program.cs",
               "RelativeToolTip": "MVC_Project\\Program.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAArwBwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T16:45:25.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T16:45:25.388Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\pierr\\Projects\\MVC_Project\\MVC_Project\\Data\\DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\Desktop\\asp-dotnet\\MVC_Project\\Data\\DbInitializer.cs",
               "RelativeDocumentMoniker": "MVC_Project\\Data\\DbInitializer.cs",
-              "ToolTip": "C:\\Users\\pierr\\Projects\\MVC_Project\\MVC_Project\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\pierr\\Desktop\\asp-dotnet\\MVC_Project\\Data\\DbInitializer.cs",
               "RelativeToolTip": "MVC_Project\\Data\\DbInitializer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,29 +59,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\pierr\\Projects\\MVC_Project\\MVC_Project\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\Desktop\\asp-dotnet\\MVC_Project\\Models\\Product.cs",
               "RelativeDocumentMoniker": "MVC_Project\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\pierr\\Projects\\MVC_Project\\MVC_Project\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\pierr\\Desktop\\asp-dotnet\\MVC_Project\\Models\\Product.cs",
               "RelativeToolTip": "MVC_Project\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T16:45:14.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T16:45:14.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\pierr\\Projects\\MVC_Project\\MVC_Project\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pierr\\Desktop\\asp-dotnet\\MVC_Project\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MVC_Project\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\pierr\\Projects\\MVC_Project\\MVC_Project\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\pierr\\Desktop\\asp-dotnet\\MVC_Project\\Data\\AppDbContext.cs",
               "RelativeToolTip": "MVC_Project\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T16:43:51.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T16:43:51.936Z"
             }
           ]
         }
